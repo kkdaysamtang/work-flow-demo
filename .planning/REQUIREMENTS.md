@@ -50,15 +50,15 @@
 | FIX-03 | (validated, seed) | Complete |
 | FIX-04 | (validated, seed) | Complete |
 | FIX-05 | (validated, seed) | Complete |
-| FIX-06 | Phase [pending roadmap] | Pending |
-| FIX-07 | Phase [pending roadmap] | Pending |
-| FIX-08 | Phase [pending roadmap] | Pending |
+| FIX-06 | Phase 1 | Pending |
+| FIX-07 | Phase 1 | Pending |
+| FIX-08 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 8 total (5 validated + 3 active)
-- Mapped to phases: 0 ⚠️ (will be filled by roadmapper)
-- Unmapped (active only): 3
+- Mapped to phases: 3/3 active ✓
+- Unmapped (active only): 0
 
 ---
 *Requirements defined: 2026-04-30*
-*Last updated: 2026-04-30 after initial definition*
+*Last updated: 2026-04-30 after roadmap creation*
