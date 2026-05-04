@@ -6,4 +6,8 @@ function placeholder() {
   return 'placeholder';
 }
 
-module.exports = { placeholder };
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+module.exports = { placeholder, greet };
