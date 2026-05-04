@@ -12,7 +12,7 @@ See: .planning/PROJECT.md (updated 2026-04-30)
 Phase: 1 of 1 (Fixture Documentation)
 Plan: 0 of ? in current phase
 Status: Ready to plan
-Last activity: 2026-04-30 — ROADMAP.md created; roadmapper mapped FIX-06/07/08 to Phase 1
+Last activity: 2026-05-04 - Completed quick task 260504-cvu: 在 hello.js 加上 greet(name) function，回傳 Hello, {name}!，並建立一個 simple unit test 驗證 greet('world') === 'Hello, world!'
 
 Progress: [░░░░░░░░░░] 0%
 
@@ -51,6 +51,12 @@ None yet.
 ### Blockers/Concerns
 
 None yet.
+
+### Quick Tasks Completed
+
+| # | Description | Date | Commit | Directory |
+|---|-------------|------|--------|-----------|
+| 260504-cvu | 在 hello.js 加上 greet(name) function，回傳 Hello, {name}!，並建立一個 simple unit test 驗證 greet('world') === 'Hello, world!' | 2026-05-04 | 7be2ada | [260504-cvu-hello-js-greet-name-function-hello-name-](./quick/260504-cvu-hello-js-greet-name-function-hello-name-/) |
 
 ## Deferred Items
 
