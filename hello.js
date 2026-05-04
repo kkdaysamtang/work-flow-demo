@@ -6,4 +6,8 @@ function placeholder() {
   return 'placeholder';
 }
 
-module.exports = { placeholder };
+function multiply(a, b) {
+  return a * b;
+}
+
+module.exports = { placeholder, multiply };
